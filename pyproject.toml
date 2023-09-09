@@ -1,14 +1,21 @@
 [tool.poetry]
 name = "aurum-os-base"
 version = "0.1.0"
-description = ""
+description = "A base package for the aurumOS"
+long_description = """
+aurumOS Base is a foundational package for the Aurum operating system. It includes various modules and utilities to support system operations, including system information, file management, process control, networking, security, and localization.
+"""
 authors = ["lxchn1v1 <flat.assembly@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.10"
+pyyaml = "^5.4.1"  # For working with YAML files
+msgpack = "^1.0.2"  # For binary serialization
+requests = "^2.26.0"  # For HTTP requests
+cryptography = "^3.4.8"  # For encryption and decryption
 
 [tool.poetry.dev-dependencies]
-pytest = "^5.2"
+pytest = "^6.2.4"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
