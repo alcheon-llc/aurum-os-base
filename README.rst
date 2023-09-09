@@ -1,10 +1,9 @@
-.. image:: https://img.shields.io/pypi/v/aurum-os-base.svg
-   :target: https://pypi.org/project/aurum-os-base/
-   :alt: PyPI Version
-
-.. image:: https://img.shields.io/github/license/yourusername/aurum-os-base.svg
+.. image:: https://img.shields.io/github/license/alcheon-llc/aurum-os-base?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=white
    :target: https://github.com/alcheon-llc/aurum-os-base/blob/main/LICENSE
-   :alt: License
+
+.. image:: https://img.shields.io/discord/1095422816905613462?style=for-the-badge&logo=discord&logoColor=white&labelColor=black&color=white
+   :target: https://discord.gg/CxQVXJPT5E
+
 
 aurumOS Base
 =============
