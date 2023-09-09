@@ -5,6 +5,8 @@ description = "A base package for the aurumOS"
 long_description = ""
 authors = ["lxchn1v1 <flat.assembly@gmail.com>"]
 readme = "README.rst"
+repository = "https://github.com/alcheon-llc/aurum-os-base"
+homepage = "https://alcheon-llc.github.io/apkg-repo/aurum-os-base/"
 
 [tool.poetry.dependencies]
 python = "^3.10"
