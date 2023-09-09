@@ -29,5 +29,6 @@ Features
 Installation
 ------------
 
-You can install `aurum-os-base` using `pip`:
-``pip install aurum-os-base``
+This package is already preinstalled in ``aurumOS >= 23.10``
+
+You can install `aurum-os-base` using `pip`: ``pip install aurum-os-base``
