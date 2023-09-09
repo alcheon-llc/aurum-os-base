@@ -2,10 +2,9 @@
 name = "aurum-os-base"
 version = "0.1.0"
 description = "A base package for the aurumOS"
-long_description = """
-aurumOS Base is a foundational package for the Aurum operating system. It includes various modules and utilities to support system operations, including system information, file management, process control, networking, security, and localization.
-"""
+long_description = ""
 authors = ["lxchn1v1 <flat.assembly@gmail.com>"]
+readme = "README.rst"
 
 [tool.poetry.dependencies]
 python = "^3.10"
@@ -20,3 +19,5 @@ pytest = "^6.2.4"
 [build-system]
 requires = ["poetry-core>=1.0.0"]
 build-backend = "poetry.core.masonry.api"
+
+
