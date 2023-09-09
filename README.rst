@@ -1,3 +1,7 @@
+.. image:: https://img.shields.io/pypi/v/aurum-os-base?style=for-the-badge&logo=python&logoColor=white&label=Package&labelColor=black&color=white
+   :alt: PyPI - Version
+   :target: https://pypi.org/project/aurum-os-base
+
 .. image:: https://img.shields.io/github/license/alcheon-llc/aurum-os-base?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=white
    :target: https://github.com/alcheon-llc/aurum-os-base/blob/main/LICENSE
 
